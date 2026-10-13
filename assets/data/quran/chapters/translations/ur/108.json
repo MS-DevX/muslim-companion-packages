@@ -1,0 +1,33 @@
+[
+  {
+    "id": 108,
+    "city": "makkah",
+    "name": {
+      "translated": "The Abundance",
+      "transliterated": "Al-Kawthar",
+      "codepoints": [
+        1575,
+        1604,
+        1603,
+        1608,
+        1579,
+        1585
+      ]
+    },
+    "ayahs": 3,
+    "slug": "al-kawthar",
+    "translator": null
+  },
+  [
+    1,
+    "(اے نبیؐ) ہم نے تمہیں کوثر عطا کر دیا"
+  ],
+  [
+    2,
+    "پس تم اپنے رب ہی کے لیے نماز پڑھو اور قربانی کرو"
+  ],
+  [
+    3,
+    "تمہارا دشمن ہی جڑ کٹا ہے"
+  ]
+]
