@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "total_candidates_audited": 6,
+  "verified_for_distribution_count": 6,
+  "candidates": [
+    {
+      "package_id": "abudawud-ar",
+      "collection_id": "abudawud",
+      "language": "ar",
+      "provenance_classification": "VERIFIED_FOR_DISTRIBUTION",
+      "source": "Open-Hadith-Data",
+      "source_revision": "c3d9b04 (master branch)",
+      "license": "ODbL-1.0",
+      "content_license": "DbCL-1.0",
+      "status_notes": ""
+    },
+    {
+      "package_id": "bukhari-ar",
+      "collection_id": "bukhari",
+      "language": "ar",
+      "provenance_classification": "VERIFIED_FOR_DISTRIBUTION",
+      "source": "Open-Hadith-Data",
+      "source_revision": "c3d9b04 (master branch)",
+      "license": "ODbL-1.0",
+      "content_license": "DbCL-1.0",
+      "status_notes": ""
+    },
+    {
+      "package_id": "ibnmajah-ar",
+      "collection_id": "ibnmajah",
+      "language": "ar",
+      "provenance_classification": "VERIFIED_FOR_DISTRIBUTION",
+      "source": "Open-Hadith-Data",
+      "source_revision": "c3d9b04 (master branch)",
+      "license": "ODbL-1.0",
+      "content_license": "DbCL-1.0",
+      "status_notes": ""
+    },
+    {
+      "package_id": "muslim-ar",
+      "collection_id": "muslim",
+      "language": "ar",
+      "provenance_classification": "VERIFIED_FOR_DISTRIBUTION",
+      "source": "Open-Hadith-Data",
+      "source_revision": "c3d9b04 (master branch)",
+      "license": "ODbL-1.0",
+      "content_license": "DbCL-1.0",
+      "status_notes": ""
+    },
+    {
+      "package_id": "nasai-ar",
+      "collection_id": "nasai",
+      "language": "ar",
+      "provenance_classification": "VERIFIED_FOR_DISTRIBUTION",
+      "source": "Open-Hadith-Data",
+      "source_revision": "c3d9b04 (master branch)",
+      "license": "ODbL-1.0",
+      "content_license": "DbCL-1.0",
+      "status_notes": ""
+    },
+    {
+      "package_id": "tirmidhi-ar",
+      "collection_id": "tirmidhi",
+      "language": "ar",
+      "provenance_classification": "VERIFIED_FOR_DISTRIBUTION",
+      "source": "Open-Hadith-Data",
+      "source_revision": "c3d9b04 (master branch)",
+      "license": "ODbL-1.0",
+      "content_license": "DbCL-1.0",
+      "status_notes": ""
+    }
+  ]
+}
